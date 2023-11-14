@@ -1,6 +1,6 @@
-#AI-Based Input Generation (Title Tentative)
+# AI-Based Input Generation (Title Tentative)
 
-##Project Description
+## Project Description
 > * Pre-trained large language models (LLMs) have recently emerged as a breakthrough technique, and many researchers have been exploring how LLMs can be applied to software testing for
 generating structured data, such as XML files.
 > * For this option, you will use the pre-trained GPT2 as the input generator to generate XML files and check if the generated files are syntactically valid. Specifically, you will need to:
