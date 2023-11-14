@@ -1,0 +1,13 @@
+<dealership>
+    <customer>
+        <name> Bob Smith </name>
+        <phone> 123-456-7890 </phone>
+        <email> bobsmith@gmail.com </email>
+    </customer>
+    <vehicle>
+        <year> 2021</year>
+        <make> Toyota </make>
+        <model> RAV4 </model>
+        <color> Black </color>
+    </vehicle>
+</dealership>
