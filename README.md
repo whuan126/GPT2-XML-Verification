@@ -12,7 +12,7 @@ valid.
 a. Here are some examples for your reference.  
 3. Design at least five prompt templates to query the GPT2 model.  
 a. For example, you can prompt GPT2 in this way: ‘Here is an example XML file.  
-Please generate another one. <sample-xml>’.
+Please generate another one. <sample-xml>’.  
 b. You can either provide the example input or not.  
 4. Prompt GPT2 for XML file generation.  
 a. Import the Hugging Face checkpoint GPT2.  
