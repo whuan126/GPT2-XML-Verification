@@ -1,6 +1,3 @@
-
-
-
 #include <stdio.h>
 // libxml2 parsing libraries
 #include <libxml/parser.h>
