@@ -1,4 +1,4 @@
-# AI-Based Input Generation (Title Tentative)
+# GPT2 Input Generation Verification
 
 ## Project Description
 > * Pre-trained large language models (LLMs) have recently emerged as a breakthrough technique, and many researchers have been exploring how LLMs can be applied to software testing for
