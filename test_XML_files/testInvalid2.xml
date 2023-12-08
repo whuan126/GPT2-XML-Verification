@@ -1,0 +1,13 @@
+<bookstore>
+  <book category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <price>19.99</price>
+  <book category="nonfiction">
+    <title lang="en">Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <year>2011</year>
+    <price>24.99</price>
+  </book>
+</bookstore>
